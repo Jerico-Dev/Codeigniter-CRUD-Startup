@@ -2,7 +2,7 @@
 	- Learn the basics of Create, Read, Udpdate, and Delete using MySQL.
 
 # MVC Pattern
-	- Learn the Model - View - Controller patter using Codeigniter.
+	- Learn the Model - View - Controller pattern using Codeigniter.
 
 # Import database 
 	- Database name - crud_db.sql
